@@ -1,0 +1,297 @@
+﻿trans,site,trt,yr,hab,tot_transhab
+1,Acheson,Tile,2016,EV,89.89
+1,Acheson,Tile,2016,SS,65.72
+1,Acheson,Tile,2016,SV,56.73
+2,Acheson,Tile,2016,EV,75.69
+2,Acheson,Tile,2016,SV,107.78
+3,Acheson,Tile,2016,EV,54.57
+3,Acheson,Tile,2016,SS,85.67
+3,Acheson,Tile,2016,SV,146.81
+4,Acheson,Tile,2016,EV,97.47
+4,Acheson,Tile,2016,SS,17.8
+4,Acheson,Tile,2016,SV,134.27
+1,Beck,Control,2015,EV,86.04
+1,Beck,Control,2015,SS,71.76
+1,Beck,Control,2015,SV,16.28
+2,Beck,Control,2015,EV,48.88
+2,Beck,Control,2015,SS,6.64
+2,Beck,Control,2015,SV,35.14
+3,Beck,Control,2015,EV,47.2
+3,Beck,Control,2015,SS,1.31
+3,Beck,Control,2015,SV,21.41
+4,Beck,Control,2015,EV,257.04
+4,Beck,Control,2015,SS,42.88
+4,Beck,Control,2015,SV,22.36
+1,Beck,Control,2016,EV,85.37
+1,Beck,Control,2016,SS,29.96
+1,Beck,Control,2016,SV,7.46
+2,Beck,Control,2016,EV,44.3
+2,Beck,Control,2016,SS,7.97
+2,Beck,Control,2016,SV,72.36
+3,Beck,Control,2016,SS,96.11
+3,Beck,Control,2016,SV,70.23
+4,Beck,Control,2016,EV,1.39
+4,Beck,Control,2016,SS,8.69
+4,Beck,Control,2016,SV,67.68
+1,Buffalo Lake,Control,2015,EV,272.44
+1,Buffalo Lake,Control,2015,SV,412.97
+2,Buffalo Lake,Control,2015,EV,102.41
+2,Buffalo Lake,Control,2015,SV,223.14
+3,Buffalo Lake,Control,2015,EV,193.88
+3,Buffalo Lake,Control,2015,SV,136.26
+4,Buffalo Lake,Control,2015,EV,302.27
+4,Buffalo Lake,Control,2015,SV,308.67
+1,Buffalo Lake,Control,2016,EV,0.26
+1,Buffalo Lake,Control,2016,SV,0.51
+2,Buffalo Lake,Control,2016,EV,8.96
+2,Buffalo Lake,Control,2016,SV,9.03
+3,Buffalo Lake,Control,2016,EV,29.09
+3,Buffalo Lake,Control,2016,SV,8.33
+4,Buffalo Lake,Control,2016,EV,1.03
+4,Buffalo Lake,Control,2016,SV,1.39
+1,Ericksrud,Tile,2015,EV,81.63
+1,Ericksrud,Tile,2015,SV,46.86
+2,Ericksrud,Tile,2015,EV,126.78
+2,Ericksrud,Tile,2015,SS,2.11
+2,Ericksrud,Tile,2015,SV,152.3
+3,Ericksrud,Tile,2015,EV,114.17
+3,Ericksrud,Tile,2015,SS,160.39
+1,Ericksrud,Tile,2016,EV,80.62
+1,Ericksrud,Tile,2016,SS,177.31
+1,Ericksrud,Tile,2016,SV,92.58
+2,Ericksrud,Tile,2016,EV,151.1
+2,Ericksrud,Tile,2016,SS,38.6
+2,Ericksrud,Tile,2016,SV,75.42
+3,Ericksrud,Tile,2016,EV,86.59
+3,Ericksrud,Tile,2016,SS,47.73
+3,Ericksrud,Tile,2016,SV,112.75
+4,Ericksrud,Tile,2016,EV,12.52
+4,Ericksrud,Tile,2016,SS,25.84
+4,Ericksrud,Tile,2016,SV,148.58
+1,Fods Slough,Surface,2015,SS,22.7
+1,Fods Slough,Surface,2015,SV,161.34
+2,Fods Slough,Surface,2015,SS,11.16
+2,Fods Slough,Surface,2015,SV,168.07
+3,Fods Slough,Surface,2015,SS,31.61
+3,Fods Slough,Surface,2015,SV,458.64
+4,Fods Slough,Surface,2015,SS,34.47
+4,Fods Slough,Surface,2015,SV,325.11
+1,Fods Slough,Surface,2016,SS,26.16
+1,Fods Slough,Surface,2016,SV,64.64
+2,Fods Slough,Surface,2016,SS,19.26
+2,Fods Slough,Surface,2016,SV,83.64
+3,Fods Slough,Surface,2016,SS,37.36
+3,Fods Slough,Surface,2016,SV,119.26
+4,Fods Slough,Surface,2016,SS,234.29
+4,Fods Slough,Surface,2016,SV,266.11
+1,Gerdink,Tile,2015,EV,76.26
+1,Gerdink,Tile,2015,SS,46.79
+2,Gerdink,Tile,2015,EV,21.33
+2,Gerdink,Tile,2015,SS,49.24
+3,Gerdink,Tile,2015,EV,133.92
+3,Gerdink,Tile,2015,SS,46.06
+4,Gerdink,Tile,2015,EV,39.2
+4,Gerdink,Tile,2015,SS,47.96
+1,Gerdink,Tile,2016,EV,3.73
+1,Gerdink,Tile,2016,SS,20.5
+2,Gerdink,Tile,2016,EV,11.72
+2,Gerdink,Tile,2016,SS,18.23
+3,Gerdink,Tile,2016,EV,33.95
+3,Gerdink,Tile,2016,SS,36.22
+4,Gerdink,Tile,2016,EV,57.42
+4,Gerdink,Tile,2016,SS,97.27
+1,Habeger,Tile,2015,EV,239.09
+1,Habeger,Tile,2015,SV,171.82
+2,Habeger,Tile,2015,EV,81.41
+2,Habeger,Tile,2015,SV,53.1
+3,Habeger,Tile,2015,EV,63.42
+3,Habeger,Tile,2015,SV,52.59
+4,Habeger,Tile,2015,EV,212.4
+1,Habeger,Tile,2016,EV,79.51
+1,Habeger,Tile,2016,SS,749.42
+2,Habeger,Tile,2016,EV,63.99
+2,Habeger,Tile,2016,SS,30.76
+2,Habeger,Tile,2016,SV,33.59
+3,Habeger,Tile,2016,EV,28.87
+3,Habeger,Tile,2016,SS,321.56
+4,Habeger,Tile,2016,EV,72.44
+4,Habeger,Tile,2016,SS,159.31
+1,Healy Slough,Surface,2015,EV,414.61
+1,Healy Slough,Surface,2015,SS,169.43
+1,Healy Slough,Surface,2015,SV,195.42
+2,Healy Slough,Surface,2015,EV,193.41
+2,Healy Slough,Surface,2015,SS,220.05
+2,Healy Slough,Surface,2015,SV,355.9
+3,Healy Slough,Surface,2015,EV,126.44
+3,Healy Slough,Surface,2015,SS,95
+3,Healy Slough,Surface,2015,SV,260.98
+4,Healy Slough,Surface,2015,EV,354.12
+4,Healy Slough,Surface,2015,SS,72.66
+4,Healy Slough,Surface,2015,SV,130.24
+1,Healy Slough,Surface,2016,EV,53.49
+1,Healy Slough,Surface,2016,SV,25.11
+2,Healy Slough,Surface,2016,EV,155.41
+2,Healy Slough,Surface,2016,SV,35.42
+3,Healy Slough,Surface,2016,EV,0.26
+3,Healy Slough,Surface,2016,SV,19.61
+4,Healy Slough,Surface,2016,EV,5.55
+4,Healy Slough,Surface,2016,SV,31.5
+1,Lost Lake,Control,2015,EV,93.35
+1,Lost Lake,Control,2015,SV,231.54
+2,Lost Lake,Control,2015,EV,169.92
+2,Lost Lake,Control,2015,SV,133.01
+3,Lost Lake,Control,2015,EV,530.25
+3,Lost Lake,Control,2015,SV,274.97
+4,Lost Lake,Control,2015,EV,253.88
+4,Lost Lake,Control,2015,SV,479.09
+1,Lost Lake,Control,2016,EV,31.67
+1,Lost Lake,Control,2016,SV,29.38
+2,Lost Lake,Control,2016,EV,58.51
+2,Lost Lake,Control,2016,SV,56.38
+3,Lost Lake,Control,2016,EV,53.05
+3,Lost Lake,Control,2016,SV,120.46
+4,Lost Lake,Control,2016,EV,86.28
+1,Petri II,Surface,2015,EV,146.74
+2,Petri II,Surface,2015,EV,26.39
+2,Petri II,Surface,2015,SV,406.37
+3,Petri II,Surface,2015,EV,27.49
+3,Petri II,Surface,2015,SV,229.12
+4,Petri II,Surface,2015,EV,89.3
+4,Petri II,Surface,2015,SV,148.1
+1,Petri II,Surface,2016,EV,61.78
+2,Petri II,Surface,2016,EV,8.19
+3,Petri II,Surface,2016,EV,242.94
+4,Petri II,Surface,2016,EV,87.3
+1,Pettigrew,Control,2015,EV,11.27
+2,Pettigrew,Control,2015,EV,121.67
+3,Pettigrew,Control,2015,EV,311.11
+3,Pettigrew,Control,2015,SS,108.24
+4,Pettigrew,Control,2015,EV,102.45
+4,Pettigrew,Control,2015,SS,5.09
+1,Pettigrew,Control,2016,EV,130.52
+2,Pettigrew,Control,2016,EV,117.31
+3,Pettigrew,Control,2016,EV,222.72
+4,Pettigrew,Control,2016,EV,286.47
+1,Pittenger,Control,2015,EV,6.78
+2,Pittenger,Control,2015,EV,13.73
+2,Pittenger,Control,2015,SV,37.73
+3,Pittenger,Control,2015,EV,53.37
+3,Pittenger,Control,2015,SV,40.75
+4,Pittenger,Control,2015,EV,25.71
+4,Pittenger,Control,2015,SV,56.39
+1,Pittenger,Control,2016,EV,8.22
+1,Pittenger,Control,2016,SS,19.67
+1,Pittenger,Control,2016,SV,19.28
+2,Pittenger,Control,2016,EV,1.95
+2,Pittenger,Control,2016,SS,2
+2,Pittenger,Control,2016,SV,17.61
+3,Pittenger,Control,2016,EV,2.89
+3,Pittenger,Control,2016,SS,2.04
+3,Pittenger,Control,2016,SV,6.77
+4,Pittenger,Control,2016,EV,31.47
+4,Pittenger,Control,2016,SS,3.57
+4,Pittenger,Control,2016,SV,16.22
+1,Ramsey,Surface,2015,EV,170.14
+1,Ramsey,Surface,2015,SS,316.75
+2,Ramsey,Surface,2015,EV,106.71
+2,Ramsey,Surface,2015,SS,248.3
+3,Ramsey,Surface,2015,EV,595.58
+3,Ramsey,Surface,2015,SS,535.49
+4,Ramsey,Surface,2015,EV,41.18
+4,Ramsey,Surface,2015,SS,479.83
+1,Ramsey,Surface,2016,EV,185.05
+1,Ramsey,Surface,2016,SS,45.94
+2,Ramsey,Surface,2016,EV,243.91
+2,Ramsey,Surface,2016,SS,110.93
+3,Ramsey,Surface,2016,EV,282.53
+3,Ramsey,Surface,2016,SS,58.53
+4,Ramsey,Surface,2016,EV,267.75
+4,Ramsey,Surface,2016,SS,260.49
+1,Schaefer,Surface,2015,EV,268.35
+1,Schaefer,Surface,2015,SS,109.15
+1,Schaefer,Surface,2015,SV,319.77
+2,Schaefer,Surface,2015,SS,195.31
+2,Schaefer,Surface,2015,SV,228.5
+3,Schaefer,Surface,2015,EV,117.92
+3,Schaefer,Surface,2015,SV,640.75
+4,Schaefer,Surface,2015,SS,45.82
+1,Schaefer,Surface,2016,EV,117.83
+1,Schaefer,Surface,2016,SS,15.3
+1,Schaefer,Surface,2016,SV,35.9
+2,Schaefer,Surface,2016,EV,101.6
+2,Schaefer,Surface,2016,SV,65.27
+3,Schaefer,Surface,2016,EV,97.17
+3,Schaefer,Surface,2016,SS,17.99
+3,Schaefer,Surface,2016,SV,96.16
+4,Schaefer,Surface,2016,EV,260.89
+4,Schaefer,Surface,2016,SS,22.09
+4,Schaefer,Surface,2016,SV,59.12
+1,Swartz,Tile,2015,EV,98.34
+1,Swartz,Tile,2015,SS,245.72
+2,Swartz,Tile,2015,EV,121.38
+2,Swartz,Tile,2015,SS,93.7
+3,Swartz,Tile,2015,EV,311.3
+3,Swartz,Tile,2015,SS,42.91
+4,Swartz,Tile,2015,EV,119.56
+4,Swartz,Tile,2015,SS,145.96
+1,Swartz,Tile,2016,EV,61.73
+1,Swartz,Tile,2016,SS,63.74
+1,Swartz,Tile,2016,SV,46.97
+2,Swartz,Tile,2016,EV,60.1
+2,Swartz,Tile,2016,SS,42.22
+2,Swartz,Tile,2016,SV,35.14
+3,Swartz,Tile,2016,EV,21.29
+3,Swartz,Tile,2016,SS,29.08
+3,Swartz,Tile,2016,SV,58.85
+4,Swartz,Tile,2016,EV,20.21
+4,Swartz,Tile,2016,SS,81.97
+4,Swartz,Tile,2016,SV,60.02
+1,Vermillion Lake,Control,2015,EV,112.71
+1,Vermillion Lake,Control,2015,SS,233.35
+2,Vermillion Lake,Control,2015,EV,103.05
+2,Vermillion Lake,Control,2015,SS,96.11
+3,Vermillion Lake,Control,2015,EV,56.08
+3,Vermillion Lake,Control,2015,SS,67.23
+4,Vermillion Lake,Control,2015,EV,104.03
+4,Vermillion Lake,Control,2015,SS,88.36
+1,Vermillion Lake,Control,2016,EV,34.83
+1,Vermillion Lake,Control,2016,SS,3.7
+1,Vermillion Lake,Control,2016,SV,142.08
+2,Vermillion Lake,Control,2016,EV,110.29
+2,Vermillion Lake,Control,2016,SV,155.56
+3,Vermillion Lake,Control,2016,EV,137.42
+3,Vermillion Lake,Control,2016,SV,288.7
+4,Vermillion Lake,Control,2016,EV,48.4
+4,Vermillion Lake,Control,2016,SV,216.86
+1,Volker II,Tile,2015,EV,55.05
+2,Volker II,Tile,2015,SS,1.23
+3,Volker II,Tile,2015,EV,8.54
+3,Volker II,Tile,2015,SS,0.62
+4,Volker II,Tile,2015,EV,103.02
+4,Volker II,Tile,2015,SV,4.86
+1,Volker II,Tile,2016,EV,257.91
+1,Volker II,Tile,2016,SV,151.11
+2,Volker II,Tile,2016,EV,65.91
+2,Volker II,Tile,2016,SV,391.5
+3,Volker II,Tile,2016,EV,36.58
+3,Volker II,Tile,2016,SS,117.71
+4,Volker II,Tile,2016,EV,445.71
+4,Volker II,Tile,2016,SS,66.64
+1,Ziegler,Surface,2015,EV,62.84
+1,Ziegler,Surface,2015,SS,12.23
+1,Ziegler,Surface,2015,SV,40.23
+2,Ziegler,Surface,2015,EV,71.12
+2,Ziegler,Surface,2015,SS,53.05
+2,Ziegler,Surface,2015,SV,124.91
+3,Ziegler,Surface,2015,EV,46.54
+3,Ziegler,Surface,2015,SV,61.35
+4,Ziegler,Surface,2015,EV,64.44
+4,Ziegler,Surface,2015,SV,63.61
+1,Ziegler,Surface,2016,EV,128.84
+1,Ziegler,Surface,2016,SV,30.68
+2,Ziegler,Surface,2016,EV,134.04
+2,Ziegler,Surface,2016,SV,32.7
+3,Ziegler,Surface,2016,EV,206.16
+3,Ziegler,Surface,2016,SV,33.75
+4,Ziegler,Surface,2016,EV,74.4
+4,Ziegler,Surface,2016,SV,121.78
