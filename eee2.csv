@@ -1,0 +1,290 @@
+,all,trapid,abund,site,year,month,mon_year,trt,mg01
+3,Acheson Tile 15-May-15 A5T1_2015,A5T1_2015,4,Aches,2015,May,2015 May,Tile,5.001
+9,Acheson Tile 20-May-16 A5T1_2016,A5T1_2016,36,Aches,2016,May,2016 May,Tile,12.001
+4,Acheson Tile 15-May-15 A5T2_2015,A5T2_2015,2,Aches,2015,May,2015 May,Tile,4.001
+10,Acheson Tile 20-May-16 A5T2_2016,A5T2_2016,42,Aches,2016,May,2016 May,Tile,14.001
+11,Acheson Tile 20-May-16 A5T3_2016,A5T3_2016,6,Aches,2016,May,2016 May,Tile,2.001
+7,Acheson Tile 17-Jun-16 A6T1_2016,A6T1_2016,40,Aches,2016,June,2016 June,Tile,4.001
+8,Acheson Tile 17-Jun-16 A6T2_2016,A6T2_2016,15,Aches,2016,June,2016 June,Tile,14.001
+5,Acheson Tile 17-Jul-15 A7T1_2015,A7T1_2015,1,Aches,2015,July,2015 July,Tile,0.001
+1,Acheson Tile 15-Jul-16 A7T1_2016,A7T1_2016,60,Aches,2016,July,2016 July,Tile,26.001
+6,Acheson Tile 17-Jul-15 A7T3_2015,A7T3_2015,1,Aches,2015,July,2015 July,Tile,0.001
+2,Acheson Tile 15-Jul-16 A7T3_2016,A7T3_2016,321,Aches,2016,July,2016 July,Tile,93.001
+15,Beck Control 15-May-15 B5T1_2015,B5T1_2015,4,Beck ,2015,May,2015 May,Control,4.001
+26,Beck Control 20-May-16 B5T1_2016,B5T1_2016,102,Beck ,2016,May,2016 May,Control,147.001
+16,Beck Control 15-May-15 B5T2_2015,B5T2_2015,1,Beck ,2015,May,2015 May,Control,0.001
+27,Beck Control 20-May-16 B5T2_2016,B5T2_2016,132,Beck ,2016,May,2016 May,Control,732.001
+17,Beck Control 15-May-15 B5T3_2015,B5T3_2015,2,Beck ,2015,May,2015 May,Control,2.001
+28,Beck Control 20-May-16 B5T3_2016,B5T3_2016,10,Beck ,2016,May,2016 May,Control,101.001
+24,Beck Control 19-Jun-15 B6T1_2015,B6T1_2015,76,Beck ,2015,June,2015 June,Control,67.001
+21,Beck Control 17-Jun-16 B6T1_2016,B6T1_2016,23,Beck ,2016,June,2016 June,Control,131.001
+25,Beck Control 19-Jun-15 B6T2_2015,B6T2_2015,66,Beck ,2015,June,2015 June,Control,260.001
+22,Beck Control 17-Jun-16 B6T2_2016,B6T2_2016,5,Beck ,2016,June,2016 June,Control,14.001
+23,Beck Control 17-Jun-16 B6T3_2016,B6T3_2016,24,Beck ,2016,June,2016 June,Control,35.001
+18,Beck Control 17-Jul-15 B7T1_2015,B7T1_2015,15,Beck ,2015,July,2015 July,Control,48.001
+12,Beck Control 15-Jul-16 B7T1_2016,B7T1_2016,14,Beck ,2016,July,2016 July,Control,7.001
+19,Beck Control 17-Jul-15 B7T2_2015,B7T2_2015,3,Beck ,2015,July,2015 July,Control,1.001
+13,Beck Control 15-Jul-16 B7T2_2016,B7T2_2016,10,Beck ,2016,July,2016 July,Control,0.001
+20,Beck Control 17-Jul-15 B7T3_2015,B7T3_2015,23,Beck ,2015,July,2015 July,Control,3.001
+14,Beck Control 15-Jul-16 B7T3_2016,B7T3_2016,104,Beck ,2016,July,2016 July,Control,22.001
+32,Buffalo Lake Control 15-May-15 BL5T1_2015,BL5T1_2015,48,Buffa,2015,May,2015 May,Control,2.001
+43,Buffalo Lake Control 20-May-16 BL5T1_2016,BL5T1_2016,9,Buffa,2016,May,2016 May,Control,6.001
+33,Buffalo Lake Control 15-May-15 BL5T2_2015,BL5T2_2015,21,Buffa,2015,May,2015 May,Control,3.001
+44,Buffalo Lake Control 20-May-16 BL5T2_2016,BL5T2_2016,5,Buffa,2016,May,2016 May,Control,13.001
+34,Buffalo Lake Control 15-May-15 BL5T3_2015,BL5T3_2015,40,Buffa,2015,May,2015 May,Control,44.001
+45,Buffalo Lake Control 20-May-16 BL5T3_2016,BL5T3_2016,5,Buffa,2016,May,2016 May,Control,10.001
+40,Buffalo Lake Control 19-Jun-15 BL6T1_2015,BL6T1_2015,6,Buffa,2015,June,2015 June,Control,60.001
+41,Buffalo Lake Control 19-Jun-15 BL6T2_2015,BL6T2_2015,12,Buffa,2015,June,2015 June,Control,72.001
+38,Buffalo Lake Control 17-Jun-16 BL6T2_2016,BL6T2_2016,2,Buffa,2016,June,2016 June,Control,50.001
+42,Buffalo Lake Control 19-Jun-15 BL6T3_2015,BL6T3_2015,18,Buffa,2015,June,2015 June,Control,91.001
+39,Buffalo Lake Control 17-Jun-16 BL6T3_2016,BL6T3_2016,4,Buffa,2016,June,2016 June,Control,92.001
+35,Buffalo Lake Control 17-Jul-15 BL7T1_2015,BL7T1_2015,1,Buffa,2015,July,2015 July,Control,19.001
+29,Buffalo Lake Control 15-Jul-16 BL7T1_2016,BL7T1_2016,9,Buffa,2016,July,2016 July,Control,54.001
+36,Buffalo Lake Control 17-Jul-15 BL7T2_2015,BL7T2_2015,6,Buffa,2015,July,2015 July,Control,13.001
+30,Buffalo Lake Control 15-Jul-16 BL7T2_2016,BL7T2_2016,10,Buffa,2016,July,2016 July,Control,0.001
+37,Buffalo Lake Control 17-Jul-15 BL7T3_2015,BL7T3_2015,28,Buffa,2015,July,2015 July,Control,196.001
+31,Buffalo Lake Control 15-Jul-16 BL7T3_2016,BL7T3_2016,22,Buffa,2016,July,2016 July,Control,6.001
+49,Eriksrud Tile 15-May-15 E5T1_2015,E5T1_2015,6,Eriks,2015,May,2015 May,Tile,12.001
+59,Eriksrud Tile 20-May-16 E5T1_2016,E5T1_2016,112,Eriks,2016,May,2016 May,Tile,10.001
+50,Eriksrud Tile 15-May-15 E5T2_2015,E5T2_2015,7,Eriks,2015,May,2015 May,Tile,80.001
+60,Eriksrud Tile 20-May-16 E5T2_2016,E5T2_2016,33,Eriks,2016,May,2016 May,Tile,7.001
+61,Eriksrud Tile 20-May-16 E5T3_2016,E5T3_2016,68,Eriks,2016,May,2016 May,Tile,10.001
+56,Eriksrud Tile 19-Jun-15 E6T1_2015,E6T1_2015,10,Eriks,2015,June,2015 June,Tile,2.001
+53,Eriksrud Tile 17-Jun-16 E6T1_2016,E6T1_2016,18,Eriks,2016,June,2016 June,Tile,92.001
+57,Eriksrud Tile 19-Jun-15 E6T2_2015,E6T2_2015,11,Eriks,2015,June,2015 June,Tile,5.001
+54,Eriksrud Tile 17-Jun-16 E6T2_2016,E6T2_2016,6,Eriks,2016,June,2016 June,Tile,40.001
+58,Eriksrud Tile 19-Jun-15 E6T3_2015,E6T3_2015,3,Eriks,2015,June,2015 June,Tile,0.001
+55,Eriksrud Tile 17-Jun-16 E6T3_2016,E6T3_2016,6,Eriks,2016,June,2016 June,Tile,9.001
+51,Eriksrud Tile 17-Jul-15 E7T1_2015,E7T1_2015,4,Eriks,2015,July,2015 July,Tile,4.001
+46,Eriksrud Tile 15-Jul-16 E7T1_2016,E7T1_2016,22,Eriks,2016,July,2016 July,Tile,25.001
+47,Eriksrud Tile 15-Jul-16 E7T2_2016,E7T2_2016,9,Eriks,2016,July,2016 July,Tile,7.001
+52,Eriksrud Tile 17-Jul-15 E7T3_2015,E7T3_2015,1,Eriks,2015,July,2015 July,Tile,13.001
+48,Eriksrud Tile 15-Jul-16 E7T3_2016,E7T3_2016,10,Eriks,2016,July,2016 July,Tile,1.001
+65,Fods Slough Surface 15-May-15 FS5T1_2015,FS5T1_2015,93,Fods ,2015,May,2015 May,Surface,2.001
+76,Fods Slough Surface 20-May-16 FS5T1_2016,FS5T1_2016,39,Fods ,2016,May,2016 May,Surface,19.001
+66,Fods Slough Surface 15-May-15 FS5T2_2015,FS5T2_2015,87,Fods ,2015,May,2015 May,Surface,6.001
+77,Fods Slough Surface 20-May-16 FS5T2_2016,FS5T2_2016,15,Fods ,2016,May,2016 May,Surface,5.001
+67,Fods Slough Surface 15-May-15 FS5T3_2015,FS5T3_2015,21,Fods ,2015,May,2015 May,Surface,30.001
+78,Fods Slough Surface 20-May-16 FS5T3_2016,FS5T3_2016,10,Fods ,2016,May,2016 May,Surface,14.001
+73,Fods Slough Surface 19-Jun-15 FS6T1_2015,FS6T1_2015,202,Fods ,2015,June,2015 June,Surface,4.001
+70,Fods Slough Surface 17-Jun-16 FS6T1_2016,FS6T1_2016,45,Fods ,2016,June,2016 June,Surface,0.001
+74,Fods Slough Surface 19-Jun-15 FS6T2_2015,FS6T2_2015,176,Fods ,2015,June,2015 June,Surface,14.001
+71,Fods Slough Surface 17-Jun-16 FS6T2_2016,FS6T2_2016,69,Fods ,2016,June,2016 June,Surface,0.001
+75,Fods Slough Surface 19-Jun-15 FS6T3_2015,FS6T3_2015,56,Fods ,2015,June,2015 June,Surface,0.001
+72,Fods Slough Surface 17-Jun-16 FS6T3_2016,FS6T3_2016,30,Fods ,2016,June,2016 June,Surface,17.001
+68,Fods Slough Surface 17-Jul-15 FS7T1_2015,FS7T1_2015,62,Fods ,2015,July,2015 July,Surface,2.001
+62,Fods Slough Surface 15-Jul-16 FS7T1_2016,FS7T1_2016,14,Fods ,2016,July,2016 July,Surface,0.001
+63,Fods Slough Surface 15-Jul-16 FS7T2_2016,FS7T2_2016,12,Fods ,2016,July,2016 July,Surface,5.001
+69,Fods Slough Surface 17-Jul-15 FS7T3_2015,FS7T3_2015,28,Fods ,2015,July,2015 July,Surface,2.001
+64,Fods Slough Surface 15-Jul-16 FS7T3_2016,FS7T3_2016,17,Fods ,2016,July,2016 July,Surface,5.001
+82,Gerdink Tile 15-May-15 G5T1_2015,G5T1_2015,14,Gerdi,2015,May,2015 May,Tile,19.001
+94,Gerdink Tile 20-May-16 G5T1_2016,G5T1_2016,7,Gerdi,2016,May,2016 May,Tile,0.001
+83,Gerdink Tile 15-May-15 G5T2_2015,G5T2_2015,2,Gerdi,2015,May,2015 May,Tile,28.001
+95,Gerdink Tile 20-May-16 G5T2_2016,G5T2_2016,9,Gerdi,2016,May,2016 May,Tile,8.001
+84,Gerdink Tile 15-May-15 G5T3_2015,G5T3_2015,7,Gerdi,2015,May,2015 May,Tile,53.001
+96,Gerdink Tile 20-May-16 G5T3_2016,G5T3_2016,22,Gerdi,2016,May,2016 May,Tile,1.001
+91,Gerdink Tile 19-Jun-15 G6T1_2015,G6T1_2015,1,Gerdi,2015,June,2015 June,Tile,0.001
+88,Gerdink Tile 17-Jun-16 G6T1_2016,G6T1_2016,1,Gerdi,2016,June,2016 June,Tile,7.001
+92,Gerdink Tile 19-Jun-15 G6T2_2015,G6T2_2015,5,Gerdi,2015,June,2015 June,Tile,18.001
+89,Gerdink Tile 17-Jun-16 G6T2_2016,G6T2_2016,5,Gerdi,2016,June,2016 June,Tile,1.001
+93,Gerdink Tile 19-Jun-15 G6T3_2015,G6T3_2015,1,Gerdi,2015,June,2015 June,Tile,1.001
+90,Gerdink Tile 17-Jun-16 G6T3_2016,G6T3_2016,1,Gerdi,2016,June,2016 June,Tile,34.001
+85,Gerdink Tile 17-Jul-15 G7T1_2015,G7T1_2015,12,Gerdi,2015,July,2015 July,Tile,1.001
+79,Gerdink Tile 15-Jul-16 G7T1_2016,G7T1_2016,1,Gerdi,2016,July,2016 July,Tile,2.001
+86,Gerdink Tile 17-Jul-15 G7T2_2015,G7T2_2015,1,Gerdi,2015,July,2015 July,Tile,0.001
+80,Gerdink Tile 15-Jul-16 G7T2_2016,G7T2_2016,1,Gerdi,2016,July,2016 July,Tile,40.001
+87,Gerdink Tile 17-Jul-15 G7T3_2015,G7T3_2015,41,Gerdi,2015,July,2015 July,Tile,13.001
+81,Gerdink Tile 15-Jul-16 G7T3_2016,G7T3_2016,10,Gerdi,2016,July,2016 July,Tile,42.001
+99,Habeger Tile 15-May-15 H5T1_2015,H5T1_2015,58,Habeg,2015,May,2015 May,Tile,80.001
+110,Habeger Tile 20-May-16 H5T1_2016,H5T1_2016,92,Habeg,2016,May,2016 May,Tile,47.001
+100,Habeger Tile 15-May-15 H5T2_2015,H5T2_2015,25,Habeg,2015,May,2015 May,Tile,50.001
+111,Habeger Tile 20-May-16 H5T2_2016,H5T2_2016,73,Habeg,2016,May,2016 May,Tile,39.001
+101,Habeger Tile 15-May-15 H5T3_2015,H5T3_2015,54,Habeg,2015,May,2015 May,Tile,156.001
+112,Habeger Tile 20-May-16 H5T3_2016,H5T3_2016,175,Habeg,2016,May,2016 May,Tile,13.001
+107,Habeger Tile 19-Jun-15 H6T1_2015,H6T1_2015,13,Habeg,2015,June,2015 June,Tile,9.001
+104,Habeger Tile 17-Jun-16 H6T1_2016,H6T1_2016,4,Habeg,2016,June,2016 June,Tile,1.001
+108,Habeger Tile 19-Jun-15 H6T2_2015,H6T2_2015,1,Habeg,2015,June,2015 June,Tile,20.001
+105,Habeger Tile 17-Jun-16 H6T2_2016,H6T2_2016,4,Habeg,2016,June,2016 June,Tile,8.001
+109,Habeger Tile 19-Jun-15 H6T3_2015,H6T3_2015,15,Habeg,2015,June,2015 June,Tile,19.001
+106,Habeger Tile 17-Jun-16 H6T3_2016,H6T3_2016,4,Habeg,2016,June,2016 June,Tile,138.001
+102,Habeger Tile 17-Jul-15 H7T2_2015,H7T2_2015,4,Habeg,2015,July,2015 July,Tile,8.001
+97,Habeger Tile 15-Jul-16 H7T2_2016,H7T2_2016,2,Habeg,2016,July,2016 July,Tile,0.001
+103,Habeger Tile 17-Jul-15 H7T3_2015,H7T3_2015,2,Habeg,2015,July,2015 July,Tile,7.001
+98,Habeger Tile 15-Jul-16 H7T3_2016,H7T3_2016,6,Habeg,2016,July,2016 July,Tile,1.001
+116,Healy Slough Surface 15-May-15 HS5T1_2015,HS5T1_2015,19,Healy,2015,May,2015 May,Surface,5.001
+127,Healy Slough Surface 20-May-16 HS5T1_2016,HS5T1_2016,22,Healy,2016,May,2016 May,Surface,0.001
+117,Healy Slough Surface 15-May-15 HS5T2_2015,HS5T2_2015,3,Healy,2015,May,2015 May,Surface,16.001
+128,Healy Slough Surface 20-May-16 HS5T2_2016,HS5T2_2016,39,Healy,2016,May,2016 May,Surface,4.001
+118,Healy Slough Surface 15-May-15 HS5T3_2015,HS5T3_2015,4,Healy,2015,May,2015 May,Surface,6.001
+129,Healy Slough Surface 20-May-16 HS5T3_2016,HS5T3_2016,8,Healy,2016,May,2016 May,Surface,9.001
+124,Healy Slough Surface 19-Jun-15 HS6T1_2015,HS6T1_2015,9,Healy,2015,June,2015 June,Surface,3.001
+122,Healy Slough Surface 17-Jun-16 HS6T1_2016,HS6T1_2016,1,Healy,2016,June,2016 June,Surface,15.001
+125,Healy Slough Surface 19-Jun-15 HS6T2_2015,HS6T2_2015,20,Healy,2015,June,2015 June,Surface,0.001
+126,Healy Slough Surface 19-Jun-15 HS6T3_2015,HS6T3_2015,9,Healy,2015,June,2015 June,Surface,6.001
+123,Healy Slough Surface 17-Jun-16 HS6T3_2016,HS6T3_2016,2,Healy,2016,June,2016 June,Surface,22.001
+119,Healy Slough Surface 17-Jul-15 HS7T1_2015,HS7T1_2015,5,Healy,2015,July,2015 July,Surface,0.001
+113,Healy Slough Surface 15-Jul-16 HS7T1_2016,HS7T1_2016,3,Healy,2016,July,2016 July,Surface,4.001
+120,Healy Slough Surface 17-Jul-15 HS7T2_2015,HS7T2_2015,3,Healy,2015,July,2015 July,Surface,2.001
+114,Healy Slough Surface 15-Jul-16 HS7T2_2016,HS7T2_2016,3,Healy,2016,July,2016 July,Surface,1.001
+121,Healy Slough Surface 17-Jul-15 HS7T3_2015,HS7T3_2015,4,Healy,2015,July,2015 July,Surface,64.001
+115,Healy Slough Surface 15-Jul-16 HS7T3_2016,HS7T3_2016,241,Healy,2016,July,2016 July,Surface,91.001
+147,Lost Lake Control 15-May-15 LL5T1_2015,LL5T1_2015,49,Lost ,2015,May,2015 May,Control,7.001
+159,Lost Lake Control 20-May-16 LL5T1_2016,LL5T1_2016,38,Lost ,2016,May,2016 May,Control,7.001
+148,Lost Lake Control 15-May-15 LL5T2_2015,LL5T2_2015,58,Lost ,2015,May,2015 May,Control,27.001
+160,Lost Lake Control 20-May-16 LL5T2_2016,LL5T2_2016,22,Lost ,2016,May,2016 May,Control,21.001
+149,Lost Lake Control 15-May-15 LL5T3_2015,LL5T3_2015,25,Lost ,2015,May,2015 May,Control,91.001
+161,Lost Lake Control 20-May-16 LL5T3_2016,LL5T3_2016,9,Lost ,2016,May,2016 May,Control,3.001
+156,Lost Lake Control 19-Jun-15 LL6T1_2015,LL6T1_2015,28,Lost ,2015,June,2015 June,Control,26.001
+153,Lost Lake Control 17-Jun-16 LL6T1_2016,LL6T1_2016,9,Lost ,2016,June,2016 June,Control,29.001
+157,Lost Lake Control 19-Jun-15 LL6T2_2015,LL6T2_2015,47,Lost ,2015,June,2015 June,Control,41.001
+154,Lost Lake Control 17-Jun-16 LL6T2_2016,LL6T2_2016,4,Lost ,2016,June,2016 June,Control,27.001
+158,Lost Lake Control 19-Jun-15 LL6T3_2015,LL6T3_2015,41,Lost ,2015,June,2015 June,Control,0.001
+155,Lost Lake Control 17-Jun-16 LL6T3_2016,LL6T3_2016,11,Lost ,2016,June,2016 June,Control,17.001
+150,Lost Lake Control 17-Jul-15 LL7T1_2015,LL7T1_2015,7,Lost ,2015,July,2015 July,Control,4.001
+144,Lost Lake Control 15-Jul-16 LL7T1_2016,LL7T1_2016,12,Lost ,2016,July,2016 July,Control,7.001
+151,Lost Lake Control 17-Jul-15 LL7T2_2015,LL7T2_2015,7,Lost ,2015,July,2015 July,Control,46.001
+145,Lost Lake Control 15-Jul-16 LL7T2_2016,LL7T2_2016,39,Lost ,2016,July,2016 July,Control,2.001
+152,Lost Lake Control 17-Jul-15 LL7T3_2015,LL7T3_2015,2,Lost ,2015,July,2015 July,Control,6.001
+146,Lost Lake Control 15-Jul-16 LL7T3_2016,LL7T3_2016,25,Lost ,2016,July,2016 July,Control,11.001
+133,Lake Vermillion Control 15-May-15 LV5T1_2015,LV5T1_2015,23,Lake ,2015,May,2015 May,Control,122.001
+134,Lake Vermillion Control 15-May-15 LV5T2_2015,LV5T2_2015,44,Lake ,2015,May,2015 May,Control,0.001
+135,Lake Vermillion Control 15-May-15 LV5T3_2015,LV5T3_2015,40,Lake ,2015,May,2015 May,Control,9.001
+140,Lake Vermillion Control 19-Jun-15 LV6T3_2015,LV6T3_2015,198,Lake ,2015,June,2015 June,Control,25.001
+136,Lake Vermillion Control 17-Jul-15 LV7T1_2015,LV7T1_2015,43,Lake ,2015,July,2015 July,Control,82.001
+137,Lake Vermillion Control 17-Jul-15 LV7T3_2015,LV7T3_2015,65,Lake ,2015,July,2015 July,Control,0.001
+162,Petri Surface 15-May-15 P5T1_2015,P5T1_2015,2,Petri,2015,May,2015 May,Surface,6.001
+174,Petri Surface 20-May-16 P5T1_2016,P5T1_2016,5,Petri,2016,May,2016 May,Surface,23.001
+163,Petri Surface 15-May-15 P5T2_2015,P5T2_2015,1,Petri,2015,May,2015 May,Surface,0.001
+175,Petri Surface 20-May-16 P5T2_2016,P5T2_2016,29,Petri,2016,May,2016 May,Surface,2.001
+164,Petri Surface 15-May-15 P5T3_2015,P5T3_2015,3,Petri,2015,May,2015 May,Surface,17.001
+176,Petri Surface 20-May-16 P5T3_2016,P5T3_2016,8,Petri,2016,May,2016 May,Surface,87.001
+171,Petri Surface 19-Jun-15 P6T1_2015,P6T1_2015,5,Petri,2015,June,2015 June,Surface,10.001
+168,Petri Surface 17-Jun-16 P6T1_2016,P6T1_2016,1,Petri,2016,June,2016 June,Surface,0.001
+172,Petri Surface 19-Jun-15 P6T2_2015,P6T2_2015,1,Petri,2015,June,2015 June,Surface,3.001
+169,Petri Surface 17-Jun-16 P6T2_2016,P6T2_2016,1,Petri,2016,June,2016 June,Surface,1.001
+173,Petri Surface 19-Jun-15 P6T3_2015,P6T3_2015,4,Petri,2015,June,2015 June,Surface,61.001
+170,Petri Surface 17-Jun-16 P6T3_2016,P6T3_2016,1,Petri,2016,June,2016 June,Surface,24.001
+165,Petri Surface 17-Jul-15 P7T1_2015,P7T1_2015,13,Petri,2015,July,2015 July,Surface,2.001
+166,Petri Surface 17-Jul-15 P7T2_2015,P7T2_2015,53,Petri,2015,July,2015 July,Surface,0.001
+167,Petri Surface 17-Jul-15 P7T3_2015,P7T3_2015,43,Petri,2015,July,2015 July,Surface,2.001
+180,Pettigrew Control 15-May-15 Pe5T1_2015,Pe5T1_2015,55,Petti,2015,May,2015 May,Control,14.001
+190,Pettigrew Control 20-May-16 Pe5T1_2016,Pe5T1_2016,9,Petti,2016,May,2016 May,Control,11.001
+181,Pettigrew Control 15-May-15 Pe5T2_2015,Pe5T2_2015,6,Petti,2015,May,2015 May,Control,1.001
+191,Pettigrew Control 20-May-16 Pe5T2_2016,Pe5T2_2016,30,Petti,2016,May,2016 May,Control,1.001
+192,Pettigrew Control 20-May-16 Pe5T3_2016,Pe5T3_2016,3,Petti,2016,May,2016 May,Control,0.001
+187,Pettigrew Control 19-Jun-15 Pe6T1_2015,Pe6T1_2015,48,Petti,2015,June,2015 June,Control,4.001
+184,Pettigrew Control 17-Jun-16 Pe6T1_2016,Pe6T1_2016,37,Petti,2016,June,2016 June,Control,0.001
+188,Pettigrew Control 19-Jun-15 Pe6T2_2015,Pe6T2_2015,15,Petti,2015,June,2015 June,Control,0.001
+185,Pettigrew Control 17-Jun-16 Pe6T2_2016,Pe6T2_2016,31,Petti,2016,June,2016 June,Control,6.001
+189,Pettigrew Control 19-Jun-15 Pe6T3_2015,Pe6T3_2015,5,Petti,2015,June,2015 June,Control,0.001
+186,Pettigrew Control 17-Jun-16 Pe6T3_2016,Pe6T3_2016,67,Petti,2016,June,2016 June,Control,1.001
+182,Pettigrew Control 17-Jul-15 Pe7T1_2015,Pe7T1_2015,6,Petti,2015,July,2015 July,Control,8.001
+177,Pettigrew Control 15-Jul-16 Pe7T1_2016,Pe7T1_2016,1,Petti,2016,July,2016 July,Control,5.001
+183,Pettigrew Control 17-Jul-15 Pe7T2_2015,Pe7T2_2015,6,Petti,2015,July,2015 July,Control,1.001
+178,Pettigrew Control 15-Jul-16 Pe7T2_2016,Pe7T2_2016,11,Petti,2016,July,2016 July,Control,1.001
+179,Pettigrew Control 15-Jul-16 Pe7T3_2016,Pe7T3_2016,13,Petti,2016,July,2016 July,Control,4.001
+196,Pittenger Control 15-May-15 Pi5T1_2015,Pi5T1_2015,9,Pitte,2015,May,2015 May,Control,3.001
+206,Pittenger Control 20-May-16 Pi5T1_2016,Pi5T1_2016,15,Pitte,2016,May,2016 May,Control,17.001
+197,Pittenger Control 15-May-15 Pi5T2_2015,Pi5T2_2015,3,Pitte,2015,May,2015 May,Control,24.001
+207,Pittenger Control 20-May-16 Pi5T2_2016,Pi5T2_2016,73,Pitte,2016,May,2016 May,Control,5.001
+198,Pittenger Control 15-May-15 Pi5T3_2015,Pi5T3_2015,25,Pitte,2015,May,2015 May,Control,51.001
+208,Pittenger Control 20-May-16 Pi5T3_2016,Pi5T3_2016,14,Pitte,2016,May,2016 May,Control,4.001
+203,Pittenger Control 19-Jun-15 Pi6T1_2015,Pi6T1_2015,3,Pitte,2015,June,2015 June,Control,87.001
+200,Pittenger Control 17-Jun-16 Pi6T1_2016,Pi6T1_2016,3,Pitte,2016,June,2016 June,Control,42.001
+204,Pittenger Control 19-Jun-15 Pi6T2_2015,Pi6T2_2015,4,Pitte,2015,June,2015 June,Control,20.001
+201,Pittenger Control 17-Jun-16 Pi6T2_2016,Pi6T2_2016,3,Pitte,2016,June,2016 June,Control,7.001
+205,Pittenger Control 19-Jun-15 Pi6T3_2015,Pi6T3_2015,33,Pitte,2015,June,2015 June,Control,101.001
+202,Pittenger Control 17-Jun-16 Pi6T3_2016,Pi6T3_2016,5,Pitte,2016,June,2016 June,Control,115.001
+199,Pittenger Control 17-Jul-15 Pi7T1_2015,Pi7T1_2015,7,Pitte,2015,July,2015 July,Control,153.001
+193,Pittenger Control 15-Jul-16 Pi7T1_2016,Pi7T1_2016,10,Pitte,2016,July,2016 July,Control,108.001
+194,Pittenger Control 15-Jul-16 Pi7T2_2016,Pi7T2_2016,9,Pitte,2016,July,2016 July,Control,199.001
+195,Pittenger Control 15-Jul-16 Pi7T3_2016,Pi7T3_2016,10,Pitte,2016,July,2016 July,Control,152.001
+212,Ramsey Surface 15-May-15 R5T1_2015,R5T1_2015,16,Ramse,2015,May,2015 May,Surface,436.001
+222,Ramsey Surface 20-May-16 R5T1_2016,R5T1_2016,7,Ramse,2016,May,2016 May,Surface,117.001
+213,Ramsey Surface 15-May-15 R5T2_2015,R5T2_2015,13,Ramse,2015,May,2015 May,Surface,31.001
+223,Ramsey Surface 20-May-16 R5T2_2016,R5T2_2016,20,Ramse,2016,May,2016 May,Surface,30.001
+214,Ramsey Surface 15-May-15 R5T3_2015,R5T3_2015,5,Ramse,2015,May,2015 May,Surface,56.001
+224,Ramsey Surface 20-May-16 R5T3_2016,R5T3_2016,47,Ramse,2016,May,2016 May,Surface,83.001
+220,Ramsey Surface 19-Jun-15 R6T1_2015,R6T1_2015,32,Ramse,2015,June,2015 June,Surface,7.001
+217,Ramsey Surface 17-Jun-16 R6T1_2016,R6T1_2016,15,Ramse,2016,June,2016 June,Surface,12.001
+218,Ramsey Surface 17-Jun-16 R6T2_2016,R6T2_2016,5,Ramse,2016,June,2016 June,Surface,68.001
+221,Ramsey Surface 19-Jun-15 R6T3_2015,R6T3_2015,55,Ramse,2015,June,2015 June,Surface,20.001
+219,Ramsey Surface 17-Jun-16 R6T3_2016,R6T3_2016,68,Ramse,2016,June,2016 June,Surface,4.001
+209,Ramsey Surface 15-Jul-16 R7T1_2016,R7T1_2016,61,Ramse,2016,July,2016 July,Surface,5.001
+215,Ramsey Surface 17-Jul-15 R7T2_2015,R7T2_2015,2,Ramse,2015,July,2015 July,Surface,22.001
+210,Ramsey Surface 15-Jul-16 R7T2_2016,R7T2_2016,99,Ramse,2016,July,2016 July,Surface,349.001
+216,Ramsey Surface 17-Jul-15 R7T3_2015,R7T3_2015,12,Ramse,2015,July,2015 July,Surface,74.001
+211,Ramsey Surface 15-Jul-16 R7T3_2016,R7T3_2016,195,Ramse,2016,July,2016 July,Surface,290.001
+227,Schaefer Surface 15-May-15 Sc5T1_2015,Sc5T1_2015,10,Schae,2015,May,2015 May,Surface,0.001
+239,Schaefer Surface 20-May-16 Sc5T1_2016,Sc5T1_2016,10,Schae,2016,May,2016 May,Surface,255.001
+228,Schaefer Surface 15-May-15 Sc5T2_2015,Sc5T2_2015,9,Schae,2015,May,2015 May,Surface,162.001
+240,Schaefer Surface 20-May-16 Sc5T2_2016,Sc5T2_2016,15,Schae,2016,May,2016 May,Surface,326.001
+229,Schaefer Surface 15-May-15 Sc5T3_2015,Sc5T3_2015,62,Schae,2015,May,2015 May,Surface,78.001
+241,Schaefer Surface 20-May-16 Sc5T3_2016,Sc5T3_2016,10,Schae,2016,May,2016 May,Surface,53.001
+236,Schaefer Surface 19-Jun-15 Sc6T1_2015,Sc6T1_2015,66,Schae,2015,June,2015 June,Surface,179.001
+233,Schaefer Surface 17-Jun-16 Sc6T1_2016,Sc6T1_2016,7,Schae,2016,June,2016 June,Surface,39.001
+237,Schaefer Surface 19-Jun-15 Sc6T2_2015,Sc6T2_2015,52,Schae,2015,June,2015 June,Surface,285.001
+234,Schaefer Surface 17-Jun-16 Sc6T2_2016,Sc6T2_2016,12,Schae,2016,June,2016 June,Surface,3.001
+238,Schaefer Surface 19-Jun-15 Sc6T3_2015,Sc6T3_2015,42,Schae,2015,June,2015 June,Surface,19.001
+235,Schaefer Surface 17-Jun-16 Sc6T3_2016,Sc6T3_2016,43,Schae,2016,June,2016 June,Surface,0.001
+230,Schaefer Surface 17-Jul-15 Sc7T1_2015,Sc7T1_2015,50,Schae,2015,July,2015 July,Surface,0.001
+231,Schaefer Surface 17-Jul-15 Sc7T2_2015,Sc7T2_2015,8,Schae,2015,July,2015 July,Surface,13.001
+225,Schaefer Surface 15-Jul-16 Sc7T2_2016,Sc7T2_2016,3,Schae,2016,July,2016 July,Surface,0.001
+232,Schaefer Surface 17-Jul-15 Sc7T3_2015,Sc7T3_2015,244,Schae,2015,July,2015 July,Surface,204.001
+226,Schaefer Surface 15-Jul-16 Sc7T3_2016,Sc7T3_2016,7,Schae,2016,July,2016 July,Surface,2.001
+246,Swartz Tile 15-May-15 Sw5T1_2015,Sw5T1_2015,53,Swart,2015,May,2015 May,Tile,55.001
+254,Swartz Tile 20-May-16 Sw5T1_2016,Sw5T1_2016,153,Swart,2016,May,2016 May,Tile,271.001
+247,Swartz Tile 15-May-15 Sw5T2_2015,Sw5T2_2015,76,Swart,2015,May,2015 May,Tile,37.001
+255,Swartz Tile 20-May-16 Sw5T2_2016,Sw5T2_2016,496,Swart,2016,May,2016 May,Tile,36.001
+248,Swartz Tile 15-May-15 Sw5T3_2015,Sw5T3_2015,14,Swart,2015,May,2015 May,Tile,7.001
+256,Swartz Tile 20-May-16 Sw5T3_2016,Sw5T3_2016,136,Swart,2016,May,2016 May,Tile,38.001
+251,Swartz Tile 19-Jun-15 Sw6T1_2015,Sw6T1_2015,10,Swart,2015,June,2015 June,Tile,111.001
+242,Swartz Surface 17-Jun-16 Sw6T1_2016,Sw6T1_2016,14,Swart,2016,June,2016 June,Surface,13.001
+252,Swartz Tile 19-Jun-15 Sw6T2_2015,Sw6T2_2015,34,Swart,2015,June,2015 June,Tile,45.001
+243,Swartz Surface 17-Jun-16 Sw6T2_2016,Sw6T2_2016,31,Swart,2016,June,2016 June,Surface,36.001
+253,Swartz Tile 19-Jun-15 Sw6T3_2015,Sw6T3_2015,22,Swart,2015,June,2015 June,Tile,131.001
+244,Swartz Surface 17-Jun-16 Sw6T3_2016,Sw6T3_2016,25,Swart,2016,June,2016 June,Surface,0.001
+249,Swartz Tile 17-Jul-15 Sw7T1_2015,Sw7T1_2015,2,Swart,2015,July,2015 July,Tile,135.001
+250,Swartz Tile 17-Jul-15 Sw7T2_2015,Sw7T2_2015,3,Swart,2015,July,2015 July,Tile,103.001
+245,Swartz Tile 15-Jul-16 Sw7T2_2016,Sw7T2_2016,1,Swart,2016,July,2016 July,Tile,63.001
+260,Volker Tile 15-May-15 V5T1_2015,V5T1_2015,34,Volke,2015,May,2015 May,Tile,33.001
+270,Volker Tile 20-May-16 V5T1_2016,V5T1_2016,4,Volke,2016,May,2016 May,Tile,6.001
+261,Volker Tile 15-May-15 V5T2_2015,V5T2_2015,169,Volke,2015,May,2015 May,Tile,16.001
+271,Volker Tile 20-May-16 V5T2_2016,V5T2_2016,12,Volke,2016,May,2016 May,Tile,0.001
+272,Volker Tile 20-May-16 V5T3_2016,V5T3_2016,21,Volke,2016,May,2016 May,Tile,6.001
+267,Volker Tile 19-Jun-15 V6T1_2015,V6T1_2015,26,Volke,2015,June,2015 June,Tile,32.001
+264,Volker Tile 17-Jun-16 V6T1_2016,V6T1_2016,6,Volke,2016,June,2016 June,Tile,36.001
+268,Volker Tile 19-Jun-15 V6T2_2015,V6T2_2015,27,Volke,2015,June,2015 June,Tile,0.001
+265,Volker Tile 17-Jun-16 V6T2_2016,V6T2_2016,35,Volke,2016,June,2016 June,Tile,37.001
+269,Volker Tile 19-Jun-15 V6T3_2015,V6T3_2015,16,Volke,2015,June,2015 June,Tile,9.001
+266,Volker Tile 17-Jun-16 V6T3_2016,V6T3_2016,66,Volke,2016,June,2016 June,Tile,96.001
+262,Volker Tile 17-Jul-15 V7T1_2015,V7T1_2015,1,Volke,2015,July,2015 July,Tile,72.001
+257,Volker Tile 15-Jul-16 V7T1_2016,V7T1_2016,4,Volke,2016,July,2016 July,Tile,145.001
+258,Volker Tile 15-Jul-16 V7T2_2016,V7T2_2016,18,Volke,2016,July,2016 July,Tile,30.001
+263,Volker Tile 17-Jul-15 V7T3_2015,V7T3_2015,3,Volke,2015,July,2015 July,Tile,83.001
+259,Volker Tile 15-Jul-16 V7T3_2016,V7T3_2016,289,Volke,2016,July,2016 July,Tile,6.001
+141,Lake Vermillion Control 20-May-16 VL5T1_2016,VL5T1_2016,14,Lake ,2016,May,2016 May,Control,131.001
+142,Lake Vermillion Control 20-May-16 VL5T2_2016,VL5T2_2016,64,Lake ,2016,May,2016 May,Control,17.001
+143,Lake Vermillion Control 20-May-16 VL5T3_2016,VL5T3_2016,14,Lake ,2016,May,2016 May,Control,245.001
+138,Lake Vermillion Control 17-Jun-16 VL6T1_2016,VL6T1_2016,3,Lake ,2016,June,2016 June,Control,16.001
+139,Lake Vermillion Control 17-Jun-16 VL6T3_2016,VL6T3_2016,1,Lake ,2016,June,2016 June,Control,167.001
+130,Lake Vermillion Control 15-Jul-16 VL7T1_2016,VL7T1_2016,11,Lake ,2016,July,2016 July,Control,48.001
+131,Lake Vermillion Control 15-Jul-16 VL7T2_2016,VL7T2_2016,25,Lake ,2016,July,2016 July,Control,130.001
+132,Lake Vermillion Control 15-Jul-16 VL7T3_2016,VL7T3_2016,43,Lake ,2016,July,2016 July,Control,0.001
+276,Ziegler Surface 15-May-15 Z5T1_2015,Z5T1_2015,18,Ziegl,2015,May,2015 May,Surface,16.001
+287,Ziegler Surface 20-May-16 Z5T1_2016,Z5T1_2016,56,Ziegl,2016,May,2016 May,Surface,43.001
+277,Ziegler Surface 15-May-15 Z5T2_2015,Z5T2_2015,14,Ziegl,2015,May,2015 May,Surface,5.001
+288,Ziegler Surface 20-May-16 Z5T2_2016,Z5T2_2016,125,Ziegl,2016,May,2016 May,Surface,57.001
+278,Ziegler Surface 15-May-15 Z5T3_2015,Z5T3_2015,10,Ziegl,2015,May,2015 May,Surface,6.001
+289,Ziegler Surface 20-May-16 Z5T3_2016,Z5T3_2016,50,Ziegl,2016,May,2016 May,Surface,21.001
+284,Ziegler Surface 19-Jun-15 Z6T1_2015,Z6T1_2015,212,Ziegl,2015,June,2015 June,Surface,695.001
+282,Ziegler Surface 17-Jun-16 Z6T1_2016,Z6T1_2016,17,Ziegl,2016,June,2016 June,Surface,42.001
+285,Ziegler Surface 19-Jun-15 Z6T2_2015,Z6T2_2015,211,Ziegl,2015,June,2015 June,Surface,675.001
+286,Ziegler Surface 19-Jun-15 Z6T3_2015,Z6T3_2015,171,Ziegl,2015,June,2015 June,Surface,561.001
+283,Ziegler Surface 17-Jun-16 Z6T3_2016,Z6T3_2016,13,Ziegl,2016,June,2016 June,Surface,59.001
+279,Ziegler Surface 17-Jul-15 Z7T1_2015,Z7T1_2015,8,Ziegl,2015,July,2015 July,Surface,8.001
+273,Ziegler Surface 15-Jul-16 Z7T1_2016,Z7T1_2016,10,Ziegl,2016,July,2016 July,Surface,35.001
+280,Ziegler Surface 17-Jul-15 Z7T2_2015,Z7T2_2015,28,Ziegl,2015,July,2015 July,Surface,36.001
+274,Ziegler Surface 15-Jul-16 Z7T2_2016,Z7T2_2016,14,Ziegl,2016,July,2016 July,Surface,47.001
+281,Ziegler Surface 17-Jul-15 Z7T3_2015,Z7T3_2015,17,Ziegl,2015,July,2015 July,Surface,18.001
+275,Ziegler Surface 15-Jul-16 Z7T3_2016,Z7T3_2016,4,Ziegl,2016,July,2016 July,Surface,12.001
