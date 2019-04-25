@@ -1,0 +1,76 @@
+SITE	trt	mth	year	mth_yr	clothianidin	cloth0001	dinotefuran	dino0001	imidacloprid	imid0001
+Acheson	Tile	May	2016	May_2016	0	0.0001	0	0.0001	0	0.0001
+Beck	Control	May	2016	May_2016	0	0.0001	0	0.0001	0	0.0001
+Buffalo Lake	Control	May	2016	May_2016	0	0.0001	0	0.0001	0	0.0001
+Eriksrud	Tile	May	2016	May_2016	0	0.0001	0	0.0001	0.035325169	0.035425169
+Fods Slough	Surface	May	2016	May_2016	0	0.0001	0	0.0001	0	0.0001
+Gerdink	Tile	May	2016	May_2016	0	0.0001	0	0.0001	0.01767167	0.01777167
+Gerdink	Tile	May	2016	May_2016	0	0.0001	0	0.0001	0.019091508	0.019191508
+Habeger 	Tile	May	2016	May_2016	0	0.0001	0	0.0001	0.076556825	0.076656825
+Habeger Tile Outflow	Outflow	May	2016	May_2016	0	0.0001	0.010429619	0.010529619	0.065469787	0.065569787
+Vermillion Lake	Control	May	2016	May_2016	0	0.0001	0	0.0001	0.094566474	0.094666474
+Lost Lake	Control	May	2016	May_2016	0	0.0001	0	0.0001	0	0.0001
+Pittenger	Control	May	2016	May_2016	0	0.0001	0	0.0001	0.036938423	0.037038423
+Ramsey	Surface	May	2016	May_2016	0	0.0001	0	0.0001	0.014581874	0.014681874
+Schaefer	Surface	May	2016	May_2016	0	0.0001	0	0.0001	0	0.0001
+Swartz Tile Outflow	Outflow	May	2016	May_2016	0	0.0001	0	0.0001	0	0.0001
+Ziegler	Surface	May	2016	May_2016	0	0.0001	0	0.0001	0.01921262	0.01931262
+Pittenger	Control	May	2016	May_2016	0.01039925	0.01049925	0	0.0001	0	0.0001
+Volker	Tile	May	2016	May_2016	0.010564409	0.010664409	0	0.0001	0	0.0001
+Healy Slough	Surface	May	2016	May_2016	0.011069223	0.011169223	0	0.0001	0	0.0001
+Eriksrud Tile Outflow	Outflow	May	2016	May_2016	0.017127331	0.017227331	0	0.0001	0.048309406	0.048409406
+Acheson	Tile	May	2015	May_2015	0	0.0001	0	0.0001	0	0.0001
+Acheson	Tile	July	2015	July_2015	0	0.0001	0	0.0001	0	0.0001
+Beck	Control	May	2015	May_2015	0	0.0001	0	0.0001	0	0.0001
+Beck	Control	June	2015	June_2015	0	0.0001	0	0.0001	0	0.0001
+Beck	Control	July	2015	July_2015	0	0.0001	0	0.0001	0	0.0001
+Buffalo Lake	Control	May	2015	May_2015	0	0.0001	0	0.0001	0	0.0001
+Buffalo Lake	Control	June	2015	June_2015	0	0.0001	0	0.0001	0	0.0001
+Buffalo Lake	Control	July	2015	July_2015	0	0.0001	0	0.0001	0	0.0001
+Eriksrud	Tile	May	2015	May_2015	0	0.0001	0	0.0001	0	0.0001
+Eriksrud	Tile	June	2015	June_2015	0	0.0001	0	0.0001	0	0.0001
+Eriksrud	Tile	July	2015	July_2015	0	0.0001	0	0.0001	0	0.0001
+Fods Slough	Surface	May	2015	May_2015	0.005	0.0051	0	0.0001	0	0.0001
+Fods Slough	Surface	June	2015	June_2015	0	0.0001	0	0.0001	0	0.0001
+Fods Slough	Surface	July	2015	July_2015	0	0.0001	0	0.0001	0	0.0001
+Gerdink	Tile	May	2015	May_2015	0	0.0001	0	0.0001	0	0.0001
+Gerdink	Tile	June	2015	June_2015	0	0.0001	0	0.0001	0	0.0001
+Gerdink	Tile	July	2015	July_2015	0	0.0001	0	0.0001	0	0.0001
+Habeger	Tile	May	2015	May_2015	0	0.0001	0	0.0001	0	0.0001
+Habeger	Tile	June	2015	June_2015	0	0.0001	0	0.0001	0	0.0001
+Habeger	Tile	July	2015	July_2015	0	0.0001	0	0.0001	0	0.0001
+Habeger Tile Outflow	Outflow	June	2015	June_2015	0	0.0001	0	0.0001	0.012	0.0121
+Habeger Tile Outflow	Outflow	July	2015	July_2015	0.011	0.0111	0	0.0001	0.016	0.0161
+Healy Slough	Surface	May	2015	May_2015	0.004	0.0041	0	0.0001	0	0.0001
+Healy Slough	Surface	June	2015	June_2015	0	0.0001	0	0.0001	0	0.0001
+Healy Slough	Surface	July	2015	July_2015	0.027	0.0271	0	0.0001	0.011	0.0111
+Lost Lake	Control	May	2015	May_2015	0	0.0001	0	0.0001	0	0.0001
+Lost Lake	Control	June	2015	June_2015	0	0.0001	0	0.0001	0	0.0001
+Lost Lake	Control	July	2015	July_2015	0	0.0001	0	0.0001	0	0.0001
+Petri	Surface	May	2015	May_2015	0.017	0.0171	0	0.0001	0	0.0001
+Petri	Surface	June	2015	June_2015	0	0.0001	0	0.0001	0	0.0001
+Petri	Surface	July	2015	July_2015	0	0.0001	0	0.0001	0	0.0001
+Pettigrew	Control	May	2015	May_2015	0	0.0001	0	0.0001	0	0.0001
+Pettigrew	Control	June	2015	June_2015	0	0.0001	0	0.0001	0	0.0001
+Pettigrew	Control	July	2015	July_2015	0	0.0001	0	0.0001	0	0.0001
+Pittenger	Control	May	2015	May_2015	0.007	0.0071	0	0.0001	0	0.0001
+Pittenger	Control	June	2015	June_2015	0	0.0001	0	0.0001	0	0.0001
+Pittenger	Control	July	2015	July_2015	0	0.0001	0	0.0001	0	0.0001
+Ramsey	Surface	May	2015	May_2015	0	0.0001	0	0.0001	0	0.0001
+Ramsey	Surface	June	2015	June_2015	0	0.0001	0	0.0001	0	0.0001
+Ramsey	Surface	July	2015	July_2015	0	0.0001	0	0.0001	0	0.0001
+Schaefer	Surface	May	2015	May_2015	0	0.0001	0	0.0001	0	0.0001
+Schaefer	Surface	June	2015	June_2015	0	0.0001	0	0.0001	0	0.0001
+Schaefer	Surface	July	2015	July_2015	0.026	0.0261	0	0.0001	0	0.0001
+Swartz	Tile	May	2015	May_2015	0	0.0001	0	0.0001	0	0.0001
+Swartz	Tile	June	2015	June_2015	0	0.0001	0	0.0001	0	0.0001
+Swartz	Tile	July	2015	July_2015	0	0.0001	0	0.0001	0	0.0001
+Vermillion Lake	Control	May	2015	May_2015	0	0.0001	0	0.0001	0	0.0001
+Vermillion Lake	Control	June	2015	June_2015	0	0.0001	0	0.0001	0	0.0001
+Vermillion Lake	Control	July	2015	July_2015	0	0.0001	0	0.0001	0	0.0001
+Volker	Tile	May	2015	May_2015	0.027	0.0271	0	0.0001	0	0.0001
+Volker	Tile	June	2015	June_2015	0	0.0001	0	0.0001	0	0.0001
+Volker	Tile	July	2015	July_2015	0.029	0.0291	0	0.0001	0.061	0.0611
+Ziegler	Surface	May	2015	May_2015	0	0.0001	0	0.0001	0	0.0001
+Ziegler	Surface	June	2015	June_2015	0	0.0001	0	0.0001	0	0.0001
+Ziegler	Surface	July	2015	July_2015	0	0.0001	0	0.0001	0	0.0001

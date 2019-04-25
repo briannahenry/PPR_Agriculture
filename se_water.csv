@@ -1,0 +1,219 @@
+,rep,site,trt,seugl,mo_yr,month,year,notes,se_01
+11,1,Beck,Control,0,15-Jul,July,2015,No detect,0.0001
+12,2,Beck,Control,0,15-Jul,July,2015,No detect,0.0001
+13,1,Beck,Control,0.1,15-Jun,June,2015,,0.1001
+14,2,Beck,Control,0.2,15-Jun,June,2015,,0.2001
+15,1,Beck,Control,0,15-May,May,2015,No detect,0.0001
+16,2,Beck,Control,0,15-May,May,2015,No detect,0.0001
+17,1,Beck,Control,0.15,16-May,May,2016,,0.1547
+18,2,Beck,Control,0.06,16-May,May,2016,,0.0572
+19,1,Beck,Control,0.04,16-Jun,June,2016,,0.0369
+20,2,Beck,Control,0.06,16-Jun,June,2016,,0.0608
+21,1,Beck,Control,0.13,16-Jul,July,2016,,0.1329
+22,2,Beck,Control,0.13,16-Jul,July,2016,,0.1255
+23,1,Buffalo Lake,Control,0.3,15-Jul,July,2015,,0.3001
+24,2,Buffalo Lake,Control,0.3,15-Jul,July,2015,,0.3001
+25,1,Buffalo Lake,Control,4.6,15-Jun,June,2015,,4.6001
+26,2,Buffalo Lake,Control,3.2,15-Jun,June,2015,,3.2001
+27,1,Buffalo Lake,Control,3.8,15-May,May,2015,,3.8001
+28,2,Buffalo Lake,Control,1.6,15-May,May,2015,,1.6001
+29,1,Buffalo Lake,Control,0.39,16-May,May,2016,,0.3851
+30,2,Buffalo Lake,Control,0.33,16-May,May,2016,,0.3333
+31,1,Buffalo Lake,Control,0.16,16-Jun,June,2016,,0.1639
+32,2,Buffalo Lake,Control,0.28,16-Jun,June,2016,,0.2835
+33,1,Buffalo Lake,Control,0.3,16-Jul,July,2016,,0.2997
+34,2,Buffalo Lake,Control,0.3,16-Jul,July,2016,,0.2963
+106,1,Lake Vermillion,Control,0.4,15-Jun,June,2015,,0.4001
+107,1,Lake Vermillion,Control,1.3,15-May,May,2015,,1.3001
+108,2,Lake Vermillion,Control,1.6,15-May,May,2015,,1.6001
+109,1,Lake Vermillion,Control,2.99,16-May,May,2016,,2.9871
+110,2,Lake Vermillion,Control,0.32,16-May,May,2016,,0.3177
+111,1,Lake Vermillion,Control,0.22,16-Jun,June,2016,,0.2246
+112,2,Lake Vermillion,Control,0.24,16-Jun,June,2016,,0.2394
+113,1,Lake Vermillion,Control,0.17,16-Jul,July,2016,,0.1713
+114,2,Lake Vermillion,Control,0.2,16-Jul,July,2016,,0.197
+115,1,Lost Lake,Control,0,15-Jun,June,2015,No detect,0.0001
+116,2,Lost Lake,Control,0,15-Jun,June,2015,No detect,0.0001
+117,1,Lost Lake,Control,1.6,15-May,May,2015,,1.6001
+118,2,Lost Lake,Control,1.3,15-May,May,2015,,1.3001
+119,1,Lost Lake,Control,0.26,16-May,May,2016,,0.2633
+120,2,Lost Lake,Control,0.21,16-May,May,2016,,0.2101
+121,1,Lost Lake,Control,0.1,16-Jun,June,2016,,0.0995
+122,2,Lost Lake,Control,0.09,16-Jun,June,2016,,0.0866
+123,1,Lost Lake,Control,0.43,16-Jul,July,2016,,0.4274
+124,2,Lost Lake,Control,0.2,16-Jul,July,2016,,0.1993
+135,1,Pettigrew,Control,0.4,15-Jul,July,2015,,0.4001
+136,2,Pettigrew,Control,0.3,15-Jul,July,2015,,0.3001
+137,1,Pettigrew,Control,0.2,15-Jun,June,2015,,0.2001
+138,2,Pettigrew,Control,0.2,15-Jun,June,2015,,0.2001
+139,1,Pettigrew,Control,0,15-May,May,2015,No detect,0.0001
+140,2,Pettigrew,Control,0,15-May,May,2015,No detect,0.0001
+141,1,Pettigrew,Control,0.15,16-May,May,2016,,0.1482
+142,2,Pettigrew,Control,0.16,16-May,May,2016,,0.1601
+143,1,Pettigrew,Control,0.15,16-Jun,June,2016,,0.1473
+144,2,Pettigrew,Control,0.1,16-Jun,June,2016,,0.0995
+145,1,Pettigrew,Control,0.01,16-Jul,July,2016,,0.013
+146,2,Pettigrew,Control,0.1,16-Jul,July,2016,,0.0995
+147,1,Pittenger,Control,0.3,15-Jul,July,2015,,0.3001
+148,2,Pittenger,Control,0.3,15-Jul,July,2015,,0.3001
+149,1,Pittenger,Control,0.2,15-Jun,June,2015,,0.2001
+150,2,Pittenger,Control,0.3,15-Jun,June,2015,,0.3001
+151,1,Pittenger,Control,0.1,15-May,May,2015,No detect,0.1001
+152,2,Pittenger,Control,0,15-May,May,2015,No detect,0.0001
+153,1,Pittenger,Control,0.15,16-May,May,2016,,0.1455
+154,2,Pittenger,Control,0.14,16-May,May,2016,,0.1381
+155,1,Pittenger,Control,0.18,16-Jun,June,2016,,0.1842
+156,2,Pittenger,Control,0.15,16-Jun,June,2016,,0.1473
+157,1,Pittenger,Control,0.32,16-Jul,July,2016,,0.3179
+158,2,Pittenger,Control,0.28,16-Jul,July,2016,,0.2821
+49,1,Fods Slough,Surface,5.1,15-Jun,June,2015,,5.1001
+50,2,Fods Slough,Surface,3.5,15-Jun,June,2015,,3.5001
+51,1,Fods Slough,Surface,1.6,15-May,May,2015,,1.6001
+52,2,Fods Slough,Surface,1.4,15-May,May,2015,,1.4001
+53,1,Fods Slough,Surface,0.81,16-May,May,2016,,0.8104
+54,2,Fods Slough,Surface,0.44,16-May,May,2016,,0.4422
+55,1,Fods Slough,Surface,0.23,16-Jun,June,2016,,0.2265
+56,2,Fods Slough,Surface,0.2,16-Jun,June,2016,,0.1989
+57,1,Fods Slough,Surface,0.4,16-Jul,July,2016,,0.4001
+58,2,Fods Slough,Surface,0.38,16-Jul,July,2016,,0.3842
+96,1,Healy Slough,Surface,0.2,15-Jun,June,2015,,0.2001
+97,2,Healy Slough,Surface,0.2,15-Jun,June,2015,,0.2001
+98,1,Healy Slough,Surface,1.6,15-May,May,2015,,1.6001
+99,2,Healy Slough,Surface,1.5,15-May,May,2015,,1.5001
+100,1,Healy Slough,Surface,3.95,16-May,May,2016,,3.953
+101,2,Healy Slough,Surface,4.12,16-May,May,2016,,4.1215
+102,1,Healy Slough,Surface,1.1,16-Jun,June,2016,,1.1044
+103,2,Healy Slough,Surface,0.99,16-Jun,June,2016,,0.9866
+104,1,Healy Slough,Surface,0.9,16-Jul,July,2016,,0.9006
+105,2,Healy Slough,Surface,1.01,16-Jul,July,2016,,1.0062
+159,1,Ramsey,Surface,0.3,15-Jul,July,2015,,0.3001
+160,2,Ramsey,Surface,0.4,15-Jul,July,2015,,0.4001
+161,1,Ramsey,Surface,0.3,15-Jun,June,2015,,0.3001
+162,2,Ramsey,Surface,0.3,15-Jun,June,2015,,0.3001
+163,1,Ramsey,Surface,0,15-May,May,2015,No detect,0.0001
+164,2,Ramsey,Surface,0.1,15-May,May,2015,,0.1001
+165,1,Ramsey,Surface,0.2,16-May,May,2016,,0.2007
+166,2,Ramsey,Surface,0.21,16-May,May,2016,,0.2136
+167,1,Ramsey,Surface,0.22,16-Jun,June,2016,,0.2154
+168,2,Ramsey,Surface,0.24,16-Jun,June,2016,,0.2375
+169,1,Ramsey,Surface,0.24,16-Jul,July,2016,,0.2357
+170,2,Ramsey,Surface,0.18,16-Jul,July,2016,,0.1823
+171,1,Schaefer,Surface,0.1,15-Jun,June,2015,No detect,0.1001
+172,2,Schaefer,Surface,0.2,15-Jun,June,2015,,0.2001
+173,1,Schaefer,Surface,1.8,15-May,May,2015,,1.8001
+174,2,Schaefer,Surface,1.4,15-May,May,2015,,1.4001
+175,1,Schaefer,Surface,0.36,16-May,May,2016,,0.3631
+176,2,Schaefer,Surface,0.34,16-May,May,2016,,0.3372
+177,1,Schaefer,Surface,0.26,16-Jun,June,2016,,0.2615
+178,2,Schaefer,Surface,0.27,16-Jun,June,2016,,0.267
+179,1,Schaefer,Surface,0.56,16-Jul,July,2016,,0.5607
+180,2,Schaefer,Surface,0.49,16-Jul,July,2016,,0.4887
+209,1,Ziegler,Surface,0.2,15-Jul,July,2015,,0.2001
+210,2,Ziegler,Surface,0.3,15-Jul,July,2015,,0.3001
+211,1,Ziegler,Surface,3.2,15-Jun,June,2015,,3.2001
+212,2,Ziegler,Surface,4.5,15-Jun,June,2015,,4.5001
+213,1,Ziegler,Surface,1.5,15-May,May,2015,,1.5001
+214,2,Ziegler,Surface,1.4,15-May,May,2015,,1.4001
+215,1,Ziegler,Surface,0.61,16-May,May,2016,,0.6112
+216,2,Ziegler,Surface,0.53,16-May,May,2016,,0.5265
+217,1,Ziegler,Surface,0.56,16-Jun,June,2016,,0.5596
+218,2,Ziegler,Surface,0.68,16-Jun,June,2016,,0.6756
+219,1,Ziegler,Surface,0.79,16-Jul,July,2016,,0.7854
+220,2,Ziegler,Surface,0.85,16-Jul,July,2016,,0.8541
+1,1,Acheson,Tile,0.3,15-Jul,July,2015,,0.3001
+2,2,Acheson,Tile,0.5,15-Jul,July,2015,,0.5001
+3,1,Acheson,Tile,1.3,15-May,May,2015,,1.3001
+4,2,Acheson,Tile,1.6,15-May,May,2015,,1.6001
+5,1,Acheson,Tile,2.07,16-May,May,2016,,2.0731
+6,2,Acheson,Tile,1.58,16-May,May,2016,,1.5817
+7,1,Acheson,Tile,0.27,16-Jun,June,2016,,0.2651
+8,2,Acheson,Tile,0.31,16-Jun,June,2016,,0.313
+9,1,Acheson,Tile,1.23,16-Jul,July,2016,,1.2277
+10,2,Acheson,Tile,0.18,16-Jul,July,2016,,0.1842
+35,1,Eriksrud,Tile,0.2,15-Jul,July,2015,,0.2001
+36,2,Eriksrud,Tile,0.2,15-Jul,July,2015,,0.2001
+37,1,Eriksrud,Tile,0.3,15-Jun,June,2015,,0.3001
+38,2,Eriksrud,Tile,0.3,15-Jun,June,2015,,0.3001
+39,1,Eriksrud,Tile,0,15-May,May,2015,No detect,0.0001
+40,2,Eriksrud,Tile,0,15-May,May,2015,No detect,0.0001
+41,1,Eriksrud,Tile,4.03,16-May,May,2016,,4.0273
+42,2,Eriksrud,Tile,0.27,16-May,May,2016,,0.2707
+43,1,Eriksrud,Tile,0.41,16-Jul,July,2016,,0.4109
+44,2,Eriksrud,Tile,0.5,16-Jul,July,2016,,0.5028
+59,1,Gerdink,Tile,0.6,15-Jul,July,2015,,0.6001
+60,2,Gerdink,Tile,0.7,15-Jul,July,2015,,0.7001
+61,1,Gerdink,Tile,0.7,15-Jun,June,2015,,0.7001
+62,2,Gerdink,Tile,0.7,15-Jun,June,2015,,0.7001
+63,1,Gerdink,Tile,0.7,15-May,May,2015,,0.7001
+70,1,Gerdink,Tile,7.2,16-May,May,2016,,7.2024
+71,2,Gerdink,Tile,6.64,16-May,May,2016,,6.6429
+72,1,Gerdink,Tile,3.21,16-Jun,June,2016,,3.2064
+73,2,Gerdink,Tile,3.16,16-Jun,June,2016,,3.1567
+74,1,Gerdink,Tile,0.7,16-Jul,July,2016,,0.7013
+75,2,Gerdink,Tile,0.74,16-Jul,July,2016,,0.7418
+76,1,Habeger,Tile,0.5,15-Jul,July,2015,,0.5001
+77,2,Habeger,Tile,0.4,15-Jul,July,2015,,0.4001
+78,1,Habeger,Tile,0,15-Jun,June,2015,No detect,0.0001
+79,2,Habeger,Tile,0.4,15-Jun,June,2015,,0.4001
+80,1,Habeger,Tile,0.3,15-May,May,2015,,0.3001
+81,2,Habeger,Tile,0.3,15-May,May,2015,,0.3001
+84,1,Habeger,Tile,0.93,16-May,May,2016,,0.9296
+85,2,Habeger,Tile,0.98,16-May,May,2016,,0.9774
+86,1,Habeger,Tile,1.03,16-Jun,June,2016,,1.0345
+87,2,Habeger,Tile,1.07,16-Jun,June,2016,,1.0713
+88,1,Habeger,Tile,0.76,16-Jul,July,2016,,0.7602
+89,2,Habeger,Tile,0.75,16-Jul,July,2016,,0.7455
+125,1,Petri,Tile,8.8,15-Jun,June,2015,,8.8001
+126,2,Petri,Tile,7.5,15-Jun,June,2015,,7.5001
+127,1,Petri,Tile,1.2,15-May,May,2015,,1.2001
+128,2,Petri,Tile,1.2,15-May,May,2015,,1.2001
+129,1,Petri,Tile,4.31,16-May,May,2016,,4.3069
+130,2,Petri,Tile,1.15,16-May,May,2016,,1.1487
+131,1,Petri,Tile,0.32,16-Jun,June,2016,,0.3185
+132,2,Petri,Tile,0.23,16-Jun,June,2016,,0.2265
+181,1,Swartz,Tile,1.2,15-Jul,July,2015,,1.2001
+182,2,Swartz,Tile,1,15-Jul,July,2015,,1.0001
+183,1,Swartz,Tile,1,15-Jun,June,2015,,1.0001
+184,2,Swartz,Tile,1.2,15-Jun,June,2015,,1.2001
+185,1,Swartz,Tile,0.6,15-May,May,2015,,0.6001
+186,2,Swartz,Tile,0.5,15-May,May,2015,,0.5001
+187,1,Swartz,Tile,3.24,16-Jun,June,2016,,81.3001
+188,2,Swartz,Tile,2.99,16-Jun,June,2016,,178.8001
+189,1,Swartz,Tile,1.31,16-Jul,July,2016,,3.2001
+190,2,Swartz,Tile,1.17,16-Jul,July,2016,,44.7001
+191,1,Swartz,Tile,1.99,16-May,May,2016,,1.3001
+192,2,Swartz ,Tile,2.21,16-May,May,2016,,2.0001
+199,1,Volker,Tile,0.4,15-Jun,June,2015,,0.4001
+200,2,Volker,Tile,0.4,15-Jun,June,2015,,0.4001
+201,1,Volker,Tile,2.1,15-May,May,2015,,2.1001
+202,2,Volker,Tile,2.1,15-May,May,2015,,2.1001
+203,1,Volker,Tile,1.62,16-May,May,2016,,1.6154
+204,2,Volker,Tile,1.31,16-May,May,2016,,1.3147
+205,1,Volker,Tile,0.68,16-Jun,June,2016,,0.6793
+206,2,Volker,Tile,0.64,16-Jun,June,2016,,0.6424
+207,1,Volker,Tile,1.08,16-Jul,July,2016,,1.0839
+208,2,Volker,Tile,0.98,16-Jul,July,2016,,0.9778
+45,1,Eriksrud,Tile Outflow,3.8,16-Jun,June,2016,,3.7972
+46,2,Eriksrud,Tile Outflow,0.2,16-Jun,June,2016,,0.2026
+47,1,Eriksrud,Tile Outflow,0.33,16-Jul,July,2016,,0.3332
+48,2,Eriksrud,Tile Outflow,0.36,16-Jul,July,2016,,0.359
+64,1,Gerdink,Tile Outflow,86.66,16-May,May,2016,,86.659
+65,2,Gerdink,Tile Outflow,83.93,16-May,May,2016,,83.9306
+66,1,Gerdink,Tile Outflow,44.28,16-Jun,June,2016,,44.2825
+67,2,Gerdink,Tile Outflow,42.55,16-Jun,June,2016,,42.5495
+68,1,Gerdink,Tile Outflow,34.89,16-Jul,July,2016,,34.8886
+69,2,Gerdink,Tile Outflow,34.97,16-Jul,July,2016,,34.9715
+90,1,Habeger,Tile Outflow,40.67,16-May,May,2016,,40.6711
+91,2,Habeger,Tile Outflow,38.52,16-May,May,2016,,38.522
+92,1,Habeger,Tile Outflow,35.07,16-Jun,June,2016,,35.0654
+93,2,Habeger,Tile Outflow,33.52,16-Jun,June,2016,,33.5168
+94,1,Habeger,Tile Outflow,27.52,16-Jul,July,2016,,27.5196
+95,2,Habeger,Tile Outflow,27.37,16-Jul,July,2016,,27.3741
+133,1,Petri,Tile Outflow,44.26,16-May,May,2016,,44.2587
+134,2,Petri,Tile Outflow,42.34,16-May,May,2016,,42.3384
+193,1,Swartz,Tile Outflow,81.32,16-May,May,2016,,81.32
+194,2,Swartz,Tile Outflow,90.45,16-May,May,2016,,90.4493
+195,1,Swartz,Tile Outflow,178.79,16-Jun,June,2016,,178.7855
+196,2,Swartz,Tile Outflow,161.12,16-Jun,June,2016,,161.1244
+197,1,Swartz,Tile Outflow,44.72,16-Jul,July,2016,,44.7209
+198,2,Swartz,Tile Outflow,44.9,16-Jul,July,2016,,44.8977
